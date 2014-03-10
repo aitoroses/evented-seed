@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "Seed project for evented.io",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "evented.io": "~0.1.2"
+  },
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-coffee": "~0.8.1",

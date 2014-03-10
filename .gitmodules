@@ -1,0 +1,3 @@
+[submodule "evented-angular"]
+	path = client
+	url = https://github.com/aitoroses/evented-angular.git
